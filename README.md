@@ -9,13 +9,12 @@ is not solved in eight (8) guesses or less, your ship will sink, and you will no
 float on to paradise
 
 
-Play Now!
-
-
-keyboard required
+Play Now! (keyboard required)
 
 
 Open [HERE](https://bramey-git.github.io/float-on/) to play.
+
+Code can be found at [Float On Live](https://github.com/bramey-git/float-on-live)
 
 ![Category Select](/images/game/float-on-v1-home.png)
 
