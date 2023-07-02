@@ -8,9 +8,14 @@ Guess the letters in the answer to solve the puzzle and float on! If the puzzle
 is not solved in eight (8) guesses or less, your ship will sink, and you will not
 float on to paradise
 
+
 Play Now!
+
+
 keyboard required
-Open (https://bramey-git.github.io/float-on/) to play it in your browser.
+
+
+Open [HERE](https://bramey-git.github.io/float-on/) to play.
 
 ![Category Select](/images/game/float-on-v1-home.png)
 
@@ -27,5 +32,9 @@ Good Luck!
 A Game By B Ramey
 
 Play Now!
+
+
 keyboard required
-Open (https://bramey-git.github.io/float-on/) to play it in your browser.
+
+
+Open [HERE](https://bramey-git.github.io/float-on/) to play.
