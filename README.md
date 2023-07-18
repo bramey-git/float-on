@@ -12,17 +12,17 @@ Play Now!
 [Click Here](https://bramey-git.github.io/float-on/) to play.
 
 
-![Category Select](./images/game/float-on-v1-home.png)
+![Category Select](./public//images/game/float-on-v1-home.png)
 
 Over 125 Puzzles across 6 categories and growing! Puzzles range from easy to
 difficult and are sure to teach you something new. Well, unless you are already
 the greatest useless trivia mind to exist, then it may be a fun exercise...
 
-![Game Play](./images/game/float-on-v1.01-gameplay.png)
+![Game Play](./public//images/game/float-on-v1.01-gameplay.png)
 
 Good Luck!
 
-![Ghost Mode](./images/game/float-on-v1.01-ghost.png)
+![Ghost Mode](./public//images/game/float-on-v1.01-ghost.png)
 
 A Project By B Ramey
 
@@ -40,4 +40,4 @@ Play Now!
 
 [Click Here](https://bramey-git.github.io/float-on/) to play.
 
-![Victory](./images/game/float-on-v1-victory.png)
+![Victory](./public//images/game/float-on-v1-victory.png)
