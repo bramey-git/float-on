@@ -9,6 +9,7 @@ body {
 
 .boat {
   min-height: 20vh;
+  margin: 20px 0 20px 0;
 }
 
 button.category {
@@ -33,10 +34,12 @@ button.category:hover {
 }
 
 .puzzle {
+  min-height: 10vh;
   display: flex;
   margin-bottom: 5px;
   align-items: center;
   justify-content: center;
+  white-space: pre-wrap;
 }
 
 .letter {
@@ -47,10 +50,17 @@ button.category:hover {
   padding: 2px;
   height: 5vh;
   width: 30px;
+  --fa-animation-duration: 5s;
+  --fa-fade-opacity: 0.4;
 }
 
 .letter.space {
   border-bottom: none;
+}
+
+.hit-count {
+  color: #4C1D1B;
+  --fa-animation-duration: 3s;
 }
 
 .wrong p {
@@ -62,7 +72,7 @@ button.category:hover {
 }
 
 .wrong span {
-  color: red;
+  color: #5D1808;
 }
 
 .guessed span {

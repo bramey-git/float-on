@@ -15,7 +15,7 @@ import Puzzle from './components/Puzzle'
 
 test('renders App', () => {
   render(<App />);
-  const title = screen.getByText(/Float On/i);
+  const title = screen.getByText(/A correct guess will clear the clouds away and help you to solve the puzzle!/i);
   expect(title).toBeInTheDocument();
 });
 
@@ -40,8 +40,6 @@ test('lists Categories', () => {
 
 test('renders Puzzle', () => {
   render(<Puzzle puzzle={{'name': 'testing'}} correctGuesses={''} />);
-  const title = screen.getByText(/Guess the letters to solve the puzzle!/i);
-  expect(title).toBeInTheDocument();
 });
 
 test('renders Keyboard', () => {

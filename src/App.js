@@ -8,6 +8,7 @@ import KeyBoard from './components/KeyBoard'
 import Notification from './components/Notification'
 import Puzzle from './components/Puzzle'
 import Result from './components/Result'
+import Text from './components/Text'
 import Wrong from './components/Wrong'
 
 import Container from 'react-bootstrap/Container'
@@ -74,6 +75,7 @@ function App() {
     <div className='App'>
       <Header playAgain={playAgain} />
       <Container className='p-0' fluid>
+        <Text puzzle={puzzle} wrongGuesses={wrongGuesses} />
         <div className='boat'>
           <Boat wrongGuesses={wrongGuesses} />
         </div>
