@@ -686,7 +686,7 @@ const puzzleList = [
   },
   {
     'id': '95',
-    'name': 'Ken Griffey Jr',
+    'name': 'Ken Griffey Jr.',
     'hint': 'Despite being allergic to chocolate, this former MLB great ' +
       'has a chocolate bar was named after him and in 2016 was elected to ' +
       'the Baseball Hall of Fame.',
@@ -758,7 +758,7 @@ const puzzleList = [
   },
   {
     'id': '103',
-    'name': 'The Landlords Game',
+    'name': 'The Landlord`s Game',
     'hint': 'This is the earliest known version of Monopoly and was first ' +
       'patented in 1904. It was designed by Elizabeth Magie.',
     'CategoryId' : '5'
